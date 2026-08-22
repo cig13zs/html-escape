@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Html-escape \u2014 Bidirectional HTML entity and markup esc",
-  "version": "1.0.0",
-  "description": "Bidirectional HTML entity and markup escaper for documentation and code embedding offline.",
+  "name": "HTML escape",
+  "version": "1.1.0",
+  "description": "Escape markup for safe display or decode common named and numeric HTML entities.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
@@ -11,6 +11,6 @@
   "permissions": [],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Html-escape"
+    "default_title": "HTML escape"
   }
 }
